@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习/10演员-评论家方法.md",
+                "file": "WSL/WSL配置Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10演员-评论家方法"
+              "title": "WSL配置Ubuntu"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c090dcdc5dafb2e",
@@ -180,20 +181,24 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "command-palette:打开命令面板": true,
+      "bases:创建新数据库": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "机器学习/9策略梯度方法.md",
+    "Pasted image 20251231122801.png",
+    "Pasted image 20251231122704.png",
+    "WSL/WSL配置Ubuntu.md",
+    "WSL",
     "机器学习/10演员-评论家方法.md",
+    "机器学习/9策略梯度方法.md",
     "机器学习/8值函数方法.md",
     "机器学习/强化学习的数学原理.md",
     "机器学习/7时序差分方法.md",
@@ -221,14 +226,12 @@
     "大四/temp_1.md",
     "机器学习/picture/3-17.png",
     "机器学习/picture/屏幕截图 2025-10-17 232520.png",
-    "机器学习/picture/3-16.png",
     "2.md",
     "机器学习/新建文件夹",
     "大四/temp/毕委会报名信息汇总表.xlsx",
     "大四/temp/千门八将108.pdf",
     "大四/temp/百知思维模型 (圆中) (Z-Library).epub",
     "大四/temp",
-    "大四",
     "2025-09-26.md",
     "欢迎.md"
   ]
