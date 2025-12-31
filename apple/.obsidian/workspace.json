@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c090dcdc5dafb2e",
@@ -193,12 +192,12 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "机器学习/9策略梯度方法.md",
     "Pasted image 20251231122801.png",
     "Pasted image 20251231122704.png",
     "WSL/WSL配置Ubuntu.md",
     "WSL",
     "机器学习/10演员-评论家方法.md",
-    "机器学习/9策略梯度方法.md",
     "机器学习/8值函数方法.md",
     "机器学习/强化学习的数学原理.md",
     "机器学习/7时序差分方法.md",
@@ -225,7 +224,6 @@
     "未命名 1.canvas",
     "大四/temp_1.md",
     "机器学习/picture/3-17.png",
-    "机器学习/picture/屏幕截图 2025-10-17 232520.png",
     "2.md",
     "机器学习/新建文件夹",
     "大四/temp/毕委会报名信息汇总表.xlsx",

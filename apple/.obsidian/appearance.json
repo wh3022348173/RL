@@ -6,7 +6,5 @@
   "baseFontSizeAction": true,
   "cssTheme": "Minimal",
   "accentColor": "#8854e8",
-  "enabledCssSnippets": [
-    "typora"
-  ]
+  "enabledCssSnippets": []
 }
