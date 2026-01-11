@@ -33,6 +33,4 @@ sudo /usr/local/bin/fastgithub --version
 sudo /usr/local/bin/fastgithub cert trust
 #查找 FastGithub 程序位置（确认路径无误，防止路径失效）
 which fastgithub
-
-
 ```
