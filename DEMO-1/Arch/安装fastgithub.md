@@ -20,7 +20,7 @@ rm -rf ~/software
 常用命令清单
 ```bash
 #启动 FastGithub（后台静默运行，无日志、不占终端，推荐）
-sudo /usr/local/bin/fastgithub start > /dev/null 2>&1 &
+sudo /usr/local/bin/fastgithub & disown
 #检查 FastGithub 是否运行成功（验证启动，替代无效的 systemctl 命令）
 ps -aux | grep fastgithub
 #停止 FastGithub（彻底关闭加速服务，最常用）
