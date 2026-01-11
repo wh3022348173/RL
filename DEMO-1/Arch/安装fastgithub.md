@@ -19,18 +19,27 @@ rm -rf ~/software
 ```
 常用命令清单
 ```bash
-#启动 FastGithub（后台静默运行，无日志、不占终端，推荐）
-sudo /usr/local/bin/fastgithub & disown
-#检查 FastGithub 是否运行成功（验证启动，替代无效的 systemctl 命令）
-ps -aux | grep fastgithub
-#停止 FastGithub（彻底关闭加速服务，最常用）
-sudo pkill -9 fastgithub
-#临时前台启动（调试 / 看运行日志用，不推荐日常用）
-sudo /usr/local/bin/fastgithub start
-#查看 FastGithub 版本（验证程序是否正常识别）
-sudo /usr/local/bin/fastgithub --version
-#信任 FastGithub 证书（解决浏览器访问 Github 提示「隐私错误 / 不安全」）
-sudo /usr/local/bin/fastgithub cert trust
-#查找 FastGithub 程序位置（确认路径无误，防止路径失效）
-which fastgithub
+# ✅ 启动服务（手动启动） 
+sudo systemctl start fastgithub.service 
+# ✅ 停止服务（优雅关闭，释放端口，无残留） 
+sudo systemctl stop fastgithub.service 
+# ✅ 重启服务（修改配置/网络异常时用，推荐） 
+sudo systemctl restart fastgithub.service 
+# ✅ 查看服务运行状态（排错首选） 
+sudo systemctl status fastgithub.service 
+# ✅ 设置开机自启（已配置，无需重复执行） 
+sudo systemctl enable fastgithub.service 
+# ✅ 取消开机自启（如需关闭开机启动） 
+sudo systemctl disable fastgithub.service 
+# ✅ 查看服务运行日志（排错专用，查看启动失败/运行异常原因） 
+sudo journalctl -u fastgithub.service -f
+```
+## fastgithub
+```bash
+# 验证是否启动成功 
+ps -aux | grep fastgithub 
+# 手动停止FastGithub 
+sudo pkill -9 fastgithub 
+# 手动启动FastGithub 
+sudo /usr/local/bin/fastgithub start > /dev/null 2>&1 &
 ```

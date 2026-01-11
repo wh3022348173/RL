@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +193,8 @@
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
     "Arch/基本操作.md",
-    "Arch/安装fastgithub.md",
     "Arch/部分问题.md",
+    "Arch/安装fastgithub.md",
     "NDIR/doubao1.md",
     "NDIR/doubao2.md",
     "NDIR/gemini1.md",
