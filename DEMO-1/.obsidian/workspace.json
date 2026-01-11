@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/部分问题.md",
+                "file": "Arch/基本操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "部分问题"
+              "title": "基本操作"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c090dcdc5dafb2e",
@@ -192,6 +193,9 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "Arch/部分问题.md",
+    "Arch/基本操作.md",
+    "Arch/安装fastgithub.md",
     "NDIR/doubao1.md",
     "NDIR/doubao2.md",
     "NDIR/gemini1.md",
@@ -204,7 +208,6 @@
     "机器学习/picture/1-1 .png",
     "Pasted image 20251231122704.png",
     "Pasted image 20251231122801.png",
-    "Arch/部分问题.md",
     "WSL/配置CoppeliaSim_Edu.md",
     "Arch",
     "WSL/WSL配置Ubuntu.md",
