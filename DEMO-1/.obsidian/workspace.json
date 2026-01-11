@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/基本操作.md",
+                "file": "Arch/安装fastgithub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本操作"
+              "title": "安装fastgithub"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c090dcdc5dafb2e",
@@ -193,8 +192,8 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "Arch/部分问题.md",
     "Arch/基本操作.md",
+    "Arch/部分问题.md",
     "Arch/安装fastgithub.md",
     "NDIR/doubao1.md",
     "NDIR/doubao2.md",
