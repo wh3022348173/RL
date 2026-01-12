@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDIR/GPT2资料版.md",
+                "file": "NDIR/文献.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT2资料版"
+              "title": "文献"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "NDIR/GPT1.md",
     "NDIR/GPT2资料版.md",
+    "NDIR/文献.md",
+    "NDIR/GPT1.md",
     "Arch/安装fastgithub.md",
     "Arch/obsidian git.md",
     "Arch/基本操作.md",
@@ -236,7 +237,6 @@
     "未命名.base",
     "机器学习/picture/2-7.png",
     "未命名 1.canvas",
-    "大四/temp_1.md",
     "机器学习/picture/3-17.png",
     "机器学习/新建文件夹",
     "大四/temp/毕委会报名信息汇总表.xlsx"
