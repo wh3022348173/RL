@@ -54,3 +54,20 @@ Categories=Development;Robotics;Simulation;
 Keywords=robot;simulation;coppeliasim; 
 StartupWMClass=CoppeliaSim
 ```
+
+环境变量
+```bash
+#临时生效（当前终端）
+set -x COPPELIASIM_ROOT $HOME/CoppeliaSim 
+set -x LD_LIBRARY_PATH $COPPELIASIM_ROOT $LD_LIBRARY_PATH 
+set -x QT_QPA_PLATFORM_PLUGIN_PATH $COPPELIASIM_ROOT
+```
+```bash
+#永久生效
+# 写入 ~/.config/fish/config.fish 
+echo 'set -x COPPELIASIM_ROOT $HOME/CoppeliaSim' >> ~/.config/fish/config.fish 
+echo 'set -x LD_LIBRARY_PATH $COPPELIASIM_ROOT $LD_LIBRARY_PATH' >> ~/.config/fish/config.fish 
+echo 'set -x QT_QPA_PLATFORM_PLUGIN_PATH $COPPELIASIM_ROOT' >> ~/.config/fish/config.fish 
+# 刷新配置生效 
+source ~/.config/fish/config.fish
+```

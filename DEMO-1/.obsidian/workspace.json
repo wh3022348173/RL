@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/fish.md",
+                "file": "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fish"
+              "title": "ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
+    "WSL/配置CoppeliaSim_Edu.md",
+    "WSL/WSL配置Ubuntu.md",
     "Arch/fish.md",
+    "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
     "Arch/obsidian git.md",
     "Arch/安装fastgithub.md",
     "Arch/texlive.md",
@@ -214,9 +216,7 @@
     "机器学习/picture/1-1 .png",
     "Pasted image 20251231122704.png",
     "Pasted image 20251231122801.png",
-    "WSL/配置CoppeliaSim_Edu.md",
     "Arch",
-    "WSL/WSL配置Ubuntu.md",
     "未命名.canvas",
     "NOTE",
     "机器学习/9策略梯度方法.md",
