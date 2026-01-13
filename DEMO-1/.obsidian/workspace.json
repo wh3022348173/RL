@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
+                "file": "Arch/miniconda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程"
+              "title": "miniconda"
             }
           }
         ]
@@ -192,17 +192,18 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "Arch/基本操作.md",
+    "Arch/miniconda.md",
+    "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
     "WSL/配置CoppeliaSim_Edu.md",
     "WSL/WSL配置Ubuntu.md",
     "Arch/fish.md",
-    "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
     "Arch/obsidian git.md",
     "Arch/安装fastgithub.md",
     "Arch/texlive.md",
     "NDIR/文献.md",
     "NDIR/GPT2资料版.md",
     "NDIR/GPT1.md",
-    "Arch/基本操作.md",
     "Arch/部分问题.md",
     "NDIR/doubao1.md",
     "NDIR/doubao2.md",
@@ -228,7 +229,6 @@
     "机器学习/5蒙特卡罗方法.md",
     "机器学习/6随机近似方法.md",
     "机器学习/4值迭代和策略迭代.md",
-    "机器学习/3最优状态值与贝尔曼最优方程.md",
     "机器学习/picture/1-2.png",
     "机器学习/picture",
     "机器学习",
