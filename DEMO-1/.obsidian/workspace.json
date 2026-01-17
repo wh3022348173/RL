@@ -190,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c790410346183f0",
+  "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "ubunut/未命名.md",
+    "ubunut/桌面美化.md",
     "Arch/安装fastgithub.md",
     "Arch/部分问题.md",
     "Arch/基本操作.md",
@@ -200,7 +202,6 @@
     "Arch/fish.md",
     "Arch/obsidian git.md",
     "Arch/texlive.md",
-    "ubunut/桌面美化.md",
     "ubunut",
     "WSL/配置CoppeliaSim_Edu.md",
     "WSL/WSL配置Ubuntu.md",
@@ -229,7 +230,6 @@
     "机器学习/强化学习的数学原理.md",
     "机器学习/7时序差分方法.md",
     "机器学习/5蒙特卡罗方法.md",
-    "机器学习/6随机近似方法.md",
     "机器学习/picture/1-2.png",
     "机器学习/picture",
     "机器学习",
