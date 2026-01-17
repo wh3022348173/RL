@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubunut/桌面美化.md",
+                "file": "ubunut/常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "桌面美化"
+              "title": "常用命令"
             }
           }
         ]
@@ -192,9 +192,10 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "NDIR/文献.md",
+    "ubunut/问题解决.md",
+    "ubunut/常用命令.md",
     "ubunut/桌面美化.md",
-    "ubunut/未命名.md",
+    "NDIR/文献.md",
     "Arch/安装fastgithub.md",
     "Arch/部分问题.md",
     "Arch/基本操作.md",
@@ -229,7 +230,6 @@
     "机器学习/8值函数方法.md",
     "机器学习/强化学习的数学原理.md",
     "机器学习/7时序差分方法.md",
-    "机器学习/5蒙特卡罗方法.md",
     "机器学习/picture/1-2.png",
     "机器学习/picture",
     "机器学习",
