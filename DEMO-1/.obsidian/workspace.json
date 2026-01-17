@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubunut/常用命令.md",
+                "file": "0ad/注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用命令"
+              "title": "注意事项"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "ubunut/问题解决.md",
     "ubunut/常用命令.md",
+    "0ad/注意事项.md",
+    "0ad",
+    "ubunut/问题解决.md",
     "ubunut/桌面美化.md",
     "NDIR/文献.md",
     "Arch/安装fastgithub.md",
@@ -229,7 +231,6 @@
     "机器学习/10演员-评论家方法.md",
     "机器学习/8值函数方法.md",
     "机器学习/强化学习的数学原理.md",
-    "机器学习/7时序差分方法.md",
     "机器学习/picture/1-2.png",
     "机器学习/picture",
     "机器学习",
@@ -238,7 +239,6 @@
     "未命名.base",
     "机器学习/picture/2-7.png",
     "未命名 1.canvas",
-    "机器学习/picture/3-17.png",
-    "机器学习/新建文件夹"
+    "机器学习/picture/3-17.png"
   ]
 }
