@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习/1基本概念.md",
+                "file": "ubunut/常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1基本概念"
+              "title": "常用命令"
             }
           }
         ]
@@ -192,20 +192,20 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "ubunut/问题解决.md",
+    "ubunut/桌面美化.md",
+    "机器学习/1基本概念.md",
     "机器学习/picture/1-1.png",
     "机器学习/picture/4-1.png",
     "机器学习/picture/9-1.png",
     "机器学习/picture/6-1.png",
     "机器学习/picture/1-2.png",
-    "机器学习/1基本概念.md",
     "WSL/WSL配置Ubuntu.md",
     "WSL/配置CoppeliaSim_Edu.md",
     "Pasted image 20251231122704.png",
     "机器学习/强化学习的数学原理.md",
     "Pasted image 20251231122801.png",
     "ubunut/常用命令.md",
-    "ubunut/桌面美化.md",
-    "ubunut/问题解决.md",
     "0ad/注意事项.md",
     "0ad",
     "NDIR/文献.md",
