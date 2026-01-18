@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "机器学习/picture/1-1 .png"
+                "file": "机器学习/picture/1-1.png"
               },
               "icon": "lucide-image",
               "title": "1-1"
@@ -188,15 +188,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6498df5756fa88db",
+  "active": "0c790410346183f0",
   "lastOpenFiles": [
-    "机器学习/picture/1-2.png",
-    "机器学习/picture/1-1 .png",
+    "机器学习/1基本概念.md",
+    "机器学习/picture/1-1.png",
     "机器学习/picture/9-1.png",
+    "机器学习/picture/6-1.png",
+    "机器学习/picture/4-1.png",
+    "机器学习/picture/1-2.png",
     "WSL/WSL配置Ubuntu.md",
     "WSL/配置CoppeliaSim_Edu.md",
     "Pasted image 20251231122704.png",
-    "机器学习/1基本概念.md",
     "机器学习/强化学习的数学原理.md",
     "Pasted image 20251231122801.png",
     "ubunut/常用命令.md",
@@ -222,8 +224,6 @@
     "NDIR/gemini2.md",
     "机器学习/2状态值与贝尔曼方程.md",
     "NDIR",
-    "机器学习/picture/6-1.png",
-    "机器学习/picture/4-1.png",
     "Arch",
     "未命名.canvas",
     "NOTE",
