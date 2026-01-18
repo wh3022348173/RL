@@ -11,14 +11,12 @@
             "id": "6498df5756fa88db",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "DEMO-1/机器学习/1基本概念.md",
-                "bFile": "DEMO-1/机器学习/1基本概念.md",
-                "aRef": ""
+                "file": "机器学习/picture/1-1.png"
               },
-              "icon": "diff",
-              "title": "Diff: 1基本概念"
+              "icon": "lucide-image",
+              "title": "1-1"
             }
           }
         ]
