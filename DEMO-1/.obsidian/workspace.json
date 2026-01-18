@@ -11,14 +11,14 @@
             "id": "6498df5756fa88db",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "DEMO-1/.obsidian/workspace.json",
-                "bFile": "DEMO-1/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "ubunut/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -178,7 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -192,6 +192,8 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "机器学习/picture/1-1.png",
+    "ubunut/未命名.md",
     "Arch/部分问题.md",
     "Arch/基本操作.md",
     "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
@@ -200,7 +202,6 @@
     "ubunut/问题解决.md",
     "ubunut/桌面美化.md",
     "机器学习/1基本概念.md",
-    "机器学习/picture/1-1.png",
     "机器学习/picture/4-1.png",
     "机器学习/picture/9-1.png",
     "机器学习/picture/6-1.png",
@@ -229,7 +230,6 @@
     "Arch",
     "未命名.canvas",
     "NOTE",
-    "机器学习/9策略梯度方法.md",
     "WSL",
     "机器学习/picture",
     "机器学习",
