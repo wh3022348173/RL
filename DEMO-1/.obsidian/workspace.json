@@ -11,12 +11,14 @@
             "id": "6498df5756fa88db",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "机器学习/picture/1-1.png"
+                "aFile": "DEMO-1/机器学习/1基本概念.md",
+                "bFile": "DEMO-1/机器学习/1基本概念.md",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "1-1"
+              "icon": "diff",
+              "title": "Diff: 1基本概念"
             }
           }
         ]
@@ -188,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c790410346183f0",
+  "active": "6498df5756fa88db",
   "lastOpenFiles": [
     "机器学习/1基本概念.md",
+    "机器学习/picture/1-2.png",
+    "机器学习/picture/6-1.png",
     "机器学习/picture/1-1.png",
     "机器学习/picture/9-1.png",
-    "机器学习/picture/6-1.png",
     "机器学习/picture/4-1.png",
-    "机器学习/picture/1-2.png",
     "WSL/WSL配置Ubuntu.md",
     "WSL/配置CoppeliaSim_Edu.md",
     "Pasted image 20251231122704.png",
