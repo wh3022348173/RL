@@ -192,6 +192,8 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "Arch/部分问题.md",
+    "Arch/基本操作.md",
     "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
     "Arch/texlive.md",
     "ubunut/常用命令.md",
@@ -212,8 +214,6 @@
     "0ad",
     "NDIR/文献.md",
     "Arch/安装fastgithub.md",
-    "Arch/部分问题.md",
-    "Arch/基本操作.md",
     "Arch/miniconda.md",
     "Arch/fish.md",
     "Arch/obsidian git.md",
