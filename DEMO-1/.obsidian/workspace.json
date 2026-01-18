@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubunut/未命名.md",
+                "file": "ubunut/环境配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "环境配置"
             }
           }
         ]
@@ -192,15 +192,15 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "ubunut/常用命令.md",
+    "ubunut/环境配置.md",
+    "ubunut/问题解决.md",
+    "ubunut/桌面美化.md",
     "机器学习/picture/1-1.png",
-    "ubunut/未命名.md",
     "Arch/部分问题.md",
     "Arch/基本操作.md",
     "Arch/ArchLinux 安装 CoppeliaSim Ubuntu24.04 版本教程.md",
     "Arch/texlive.md",
-    "ubunut/常用命令.md",
-    "ubunut/问题解决.md",
-    "ubunut/桌面美化.md",
     "机器学习/1基本概念.md",
     "机器学习/picture/4-1.png",
     "机器学习/picture/9-1.png",
