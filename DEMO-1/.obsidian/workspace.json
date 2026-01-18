@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "机器学习/picture/9-1.png"
+                "file": "机器学习/picture/1-1 .png"
               },
               "icon": "lucide-image",
-              "title": "9-1"
+              "title": "1-1"
             }
           }
         ]
@@ -188,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c790410346183f0",
+  "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "机器学习/picture/9-1.png",
     "机器学习/picture/1-2.png",
     "机器学习/picture/1-1 .png",
     "WSL/WSL配置Ubuntu.md",
@@ -221,7 +222,6 @@
     "NDIR/gemini2.md",
     "机器学习/2状态值与贝尔曼方程.md",
     "NDIR",
-    "机器学习/picture/9-1.png",
     "机器学习/picture/6-1.png",
     "机器学习/picture/4-1.png",
     "Arch",
