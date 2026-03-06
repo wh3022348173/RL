@@ -11,10 +11,14 @@
             "id": "6498df5756fa88db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NDIR/基于红外吸收的二氧化碳气体传感器的设计.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "基于红外吸收的二氧化碳气体传感器的设计"
             }
           }
         ]
@@ -186,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c790410346183f0",
+  "active": "6498df5756fa88db",
   "lastOpenFiles": [
+    "NDIR/基于红外吸收的二氧化碳气体传感器的设计.md",
     "Arch/安装fastgithub.md",
     "NUDT保研.md",
     "ubunut/常用命令1.md",
@@ -222,7 +227,6 @@
     "NDIR/doubao1.md",
     "NDIR/doubao2.md",
     "NDIR/gemini1.md",
-    "NDIR/gemini2.md",
     "NDIR",
     "Arch",
     "未命名.canvas",
