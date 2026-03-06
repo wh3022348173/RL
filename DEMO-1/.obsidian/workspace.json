@@ -11,14 +11,10 @@
             "id": "6498df5756fa88db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NUDT保研.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "NUDT保研"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6498df5756fa88db",
+  "active": "0c790410346183f0",
   "lastOpenFiles": [
     "Arch/安装fastgithub.md",
     "NUDT保研.md",
