@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comsol/未命名.md",
+                "file": "comsol/yuan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "yuan"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "6498df5756fa88db",
   "lastOpenFiles": [
-    "NDIR/基于红外吸收的二氧化碳气体传感器的设计.md",
     "comsol/未命名.md",
+    "comsol/yuan.md",
+    "NDIR/基于红外吸收的二氧化碳气体传感器的设计.md",
     "comsol",
     "Pasted image 20251231122801.png",
     "Pasted image 20251231122704.png",
@@ -227,7 +228,6 @@
     "NDIR/GPT2资料版.md",
     "NDIR/GPT1.md",
     "NDIR/doubao1.md",
-    "NDIR/doubao2.md",
     "NDIR",
     "Arch",
     "未命名.canvas",
