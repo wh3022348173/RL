@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unitree_rl_gym/rsl_rl.md",
+                "file": "unitree_rl_gym/环境层 (env).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsl_rl"
+              "title": "环境层 (env)"
             }
           }
         ]
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +192,11 @@
   },
   "active": "6e1dd0ec0ab1d271",
   "lastOpenFiles": [
-    "WSL/WSL配置Ubuntu.md",
     "unitree_rl_gym/rsl_rl.md",
+    "unitree_rl_gym/环境层 (env).md",
+    "未命名 1.base",
+    "未命名.base",
+    "WSL/WSL配置Ubuntu.md",
     "unitree_rl_gym",
     "WSL/配置CoppeliaSim_Edu.md",
     "Pasted image 20251231122801.png",
@@ -230,7 +232,6 @@
     "ubunut/常用命令1.md",
     "ubunut/常用命令2.md",
     "ubunut/问题解决.md",
-    "ubunut/python环境配置.md",
     "0ad",
     "ubunut",
     "NDIR",
@@ -238,8 +239,6 @@
     "未命名.canvas",
     "NOTE",
     "WSL",
-    "机器学习/picture",
-    "机器学习",
     "未命名 1.canvas"
   ]
 }

@@ -30,3 +30,34 @@ rsl_rl-main/
 ├── README.md                           # 项目说明文档，介绍用法、结构和依赖
 └── requirements.txt                    # Python依赖包列表
 ```
+### 1. 算法层 (algorithms/)
+- ppo.py : PPO 算法实现
+  - 使用 clipped surrogate loss 防止策略更新过大
+  - 支持自适应学习率（基于 KL 散度）
+  - 支持值函数裁剪（clipped value loss）
+  - 包含熵正则化项
+### 2. 模型层 (modules/)
+- actor_critic.py : 基础 Actor-Critic 网络
+- Actor : 从观测输出动作（高斯分布）
+- Critic : 从观测估计价值函数
+- 支持可配置的隐藏层维度和激活函数
+- actor_critic_recurrent.py : 带 RNN 的版本
+- 使用 LSTM/GRU 处理时序信息
+- 适用于部分可观测环境
+### 3. 存储层 (storage/)
+- rollout_storage.py : 回合存储器
+  - 存储 rollout 过程中的所有转换
+  - 计算 GAE（Generalized Advantage Estimation）
+  - 支持批量和 RNN 的 mini-batch 生成器
+### 4. 环境层 (env/)
+- vec_env.py : 向量化环境接口
+  - 抽象基类，定义环境必须实现的接口
+  - 支持多个并行环境
+### 5. 运行器层 (runners/)
+- on_policy_runner.py : on-policy 训练运行器
+  - 协调环境交互、数据收集和模型训练
+  - 提供日志记录和模型保存功能
+### 6. 工具层 (utils/)
+- utils.py : 工具函数
+  - split_and_pad_trajectories() : 分割和填充轨迹
+  - unpad_trajectories() : 去除填充
