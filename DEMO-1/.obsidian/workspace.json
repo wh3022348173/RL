@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c090dcdc5dafb2e",
@@ -190,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e1dd0ec0ab1d271",
+  "active": "bad2d454d27e172e",
   "lastOpenFiles": [
     "未命名.base",
     "未命名 1.base",
