@@ -61,3 +61,17 @@ rsl_rl-main/
 - utils.py : 工具函数
   - split_and_pad_trajectories() : 分割和填充轨迹
   - unpad_trajectories() : 去除填充
+
+
+###  从简单到复杂的学习顺序 
+第一阶段：核心模块
+1. vec_env.py - 环境接口（最简单，了解环境如何与算法交互）
+2. actor_critic.py - 神经网络架构（理解策略和价值函数的实现）
+3. rollout_storage.py - 数据存储和 GAE 计算（关键的训练数据管理） 
+第二阶段：算法核心
+4. ppo.py - PPO 算法（理解损失函数和参数更新） 
+第三阶段：高级特性
+5. actor_critic_recurrent.py - RNN 支持（处理时序依赖）
+6. utils.py - 工具函数（轨迹分割和填充） 
+第四阶段：整体流程
+7. on_policy_runner.py - 训练运行器（理解完整训练流程）
