@@ -17,7 +17,10 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+<<<<<<< HEAD
   "mergeStrategy": "none",
+=======
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
@@ -35,11 +38,14 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "diffStyle": "split",
+<<<<<<< HEAD
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
     "statusBar": "disabled"
   },
+=======
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",

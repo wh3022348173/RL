@@ -1,11 +1,20 @@
 {
 	"id": "obsidian-minimal-settings",
 	"name": "Minimal Theme Settings",
+<<<<<<< HEAD
 	"version": "8.2.1",
 	"minAppVersion": "1.11.1",
+=======
+	"version": "8.1.1",
+	"minAppVersion": "1.1.9",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
 	"description": "Change the colors, fonts and features of Minimal Theme.",
 	"author": "@kepano",
 	"authorUrl": "https://www.twitter.com/kepano",
 	"fundingUrl": "https://www.buymeacoffee.com/kepano",
 	"isDesktopOnly": false
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951

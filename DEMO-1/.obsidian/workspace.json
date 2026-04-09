@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "696d7339cd4efb16",
     "type": "split",
     "children": [
@@ -9,16 +10,35 @@
         "children": [
           {
             "id": "0448d87897bd8844",
+=======
+    "id": "ed8c2f144fac7986",
+    "type": "split",
+    "children": [
+      {
+        "id": "af4eae8a8dc4b4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1dd0ec0ab1d271",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "gym/结构.md",
+=======
+                "file": "unitree_rl_gym/模型层.md",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "结构"
+=======
+              "title": "模型层"
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             }
           }
         ]
@@ -27,6 +47,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "bcdb27c0080302f9",
     "type": "split",
     "children": [
@@ -36,6 +57,17 @@
         "children": [
           {
             "id": "8070e2d6b382b423",
+=======
+    "id": "bd2ccc14633ec8c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "79cf66a5dad3d161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c790410346183f0",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +80,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "fd2c5c3656817152",
+=======
+            "id": "46d07ed574372731",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +101,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "08f553b91346bdb7",
+=======
+            "id": "7a4e214cd67b34f2",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,6 +118,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
   },
   "right": {
@@ -90,11 +131,41 @@
         "children": [
           {
             "id": "1c85d49914291d76",
+=======
+    "width": 200
+  },
+  "right": {
+    "id": "2c090dcdc5dafb2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "798740a31c2c696a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213fcd895026dd56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5367f80f4ac3b892",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "unitree_rl_gym/环境层 (env).md",
+=======
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "环境层 (env) 的反向链接列表"
             }
           },
@@ -123,11 +195,22 @@
           },
           {
             "id": "b4e968154f2ff7e5",
+=======
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3e2a95d964deacd8",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
+=======
+                "sortOrder": "alphabetical",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -137,6 +220,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "abca4946547fd249",
             "type": "leaf",
             "state": {
@@ -152,16 +236,24 @@
           },
           {
             "id": "c779aecdaf16e358",
+=======
+            "id": "cff7a095c7ebdc58",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "gym/结构.md",
+=======
+                "file": "ubunut/常用命令1.md",
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "结构 的大纲"
             }
           }
@@ -201,5 +293,101 @@
     "截图 2026-04-05 16-57-01.png",
     "Pasted image 20251231122801.png",
     "!截图 2026-04-05 16-57-01.png.md"
+=======
+              "title": "常用命令1 的大纲"
+            }
+          },
+          {
+            "id": "4800543d5cafa0a0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "bad2d454d27e172e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "workspaces:管理工作区布局": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6e1dd0ec0ab1d271",
+  "lastOpenFiles": [
+    "unitree_rl_gym/环境层 (env).md",
+    "unitree_rl_gym/模型层.md",
+    "unitree_rl_gym/rsl_rl.md",
+    "未命名.base",
+    "未命名 1.base",
+    "WSL/WSL配置Ubuntu.md",
+    "unitree_rl_gym",
+    "WSL/配置CoppeliaSim_Edu.md",
+    "Pasted image 20251231122801.png",
+    "机器学习/强化学习的数学原理.md",
+    "机器学习/10演员-评论家方法.md",
+    "机器学习/9策略梯度方法.md",
+    "机器学习/8值函数方法.md",
+    "机器学习/7时序差分方法.md",
+    "机器学习/6随机近似方法.md",
+    "机器学习/5蒙特卡罗方法.md",
+    "机器学习/4值迭代和策略迭代.md",
+    "机器学习/3最优状态值与贝尔曼最优方程.md",
+    "机器学习/2状态值与贝尔曼方程.md",
+    "机器学习/1基本概念.md",
+    "Pasted image 20260313150756.png",
+    "Pasted image 20260313151625.png",
+    "Pasted image 20260313151940.png",
+    "Pasted image 20260313151159.png",
+    "Pasted image 20260313150710.png",
+    "Pasted image 20260313151125.png",
+    "Pasted image 20260313150956.png",
+    "Pasted image 20260313151400.png",
+    "Pasted image 20260313151026.png",
+    "comsol/111.md",
+    "comsol/date1.md",
+    "comsol/未命名.md",
+    "comsol/date3.md",
+    "comsol/date2.md",
+    "NDIR/基于红外吸收的二氧化碳气体传感器的设计.md",
+    "comsol",
+    "Arch/安装fastgithub.md",
+    "NUDT保研.md",
+    "ubunut/常用命令1.md",
+    "ubunut/常用命令2.md",
+    "0ad",
+    "ubunut",
+    "NDIR",
+    "Arch",
+    "未命名.canvas",
+    "NOTE",
+    "WSL",
+    "未命名 1.canvas"
+>>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   ]
 }
