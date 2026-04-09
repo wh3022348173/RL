@@ -1,22 +1,14 @@
 {
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-<<<<<<< HEAD
   "lightScheme": "minimal-default-light",
-=======
-  "lightScheme": "minimal-nord-light",
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "darkScheme": "minimal-dracula-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
-<<<<<<< HEAD
-  "textNormal": 17,
-=======
-  "textNormal": 27,
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
+  "textNormal": 16,
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",
@@ -31,11 +23,7 @@
   "labeledNav": false,
   "fullWidthMedia": true,
   "bordersToggle": true,
-<<<<<<< HEAD
   "minimalStatus": true,
-=======
-  "minimalStatus": false,
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "focusMode": false,
   "underlineInternal": true,
   "underlineExternal": true,

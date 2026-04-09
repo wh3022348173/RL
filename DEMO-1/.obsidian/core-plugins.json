@@ -7,40 +7,24 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
-<<<<<<< HEAD
   "footnotes": false,
   "properties": true,
-=======
-  "footnotes": true,
-  "properties": false,
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-<<<<<<< HEAD
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
-=======
-  "slash-command": true,
-  "editor-status": true,
-  "bookmarks": true,
-  "markdown-importer": true,
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
   "word-count": true,
   "slides": false,
   "audio-recorder": false,
-<<<<<<< HEAD
   "workspaces": false,
-=======
-  "workspaces": true,
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
   "file-recovery": true,
   "publish": false,
   "sync": true,

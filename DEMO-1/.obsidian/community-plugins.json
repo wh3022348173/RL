@@ -1,10 +1,6 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-style-settings",
-<<<<<<< HEAD
-  "mousewheel-image-zoom"
-=======
   "mousewheel-image-zoom",
+  "obsidian-minimal-settings",
   "obsidian-git"
->>>>>>> f9a7b2e353be72e47ff0751f9aa5ce82084b6951
 ]
